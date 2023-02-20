@@ -1,6 +1,15 @@
 # Contact Manager
 
 
+## Screenshots
+
+
+![İMG](imgs/aaaa.png "İMG")
+![İMG](imgs/Ekran görüntüsü 2023-02-20 133500.png "İMG")
+![İMG](imgs/Ekran görüntüsü 2023-02-20 133518.png "İMG")
+
+
+
 ## How to Use
 npm start and npm run json-server
 
