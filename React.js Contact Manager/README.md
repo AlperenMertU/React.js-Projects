@@ -5,8 +5,8 @@
 
 
 ![İMG](imgs/aaaa.png "İMG")
-![İMG](imgs/Ekran görüntüsü 2023-02-20 133500.png "İMG")
-![İMG](imgs/Ekran görüntüsü 2023-02-20 133518.png "İMG")
+![İMG](imgs/bb.png "İMG")
+![İMG](imgs/cc.png "İMG")
 
 
 
